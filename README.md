@@ -64,13 +64,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=snikolas738-ui&style=flat&color=1F4E79" alt="Visitor count" />
 </p>
-
-CREATE INDEX idx_vendas_status ON vendas(status);
-CREATE INDEX idx_vendas_criada_em ON vendas(criada_em);
-CREATE INDEX idx_itens_venda_venda ON itens_venda(venda_id);
-CREATE INDEX idx_itens_venda_produto ON itens_venda(produto_id);
-
--- ---------- DADOS INICIAIS (seed) ----------
-
-INSERT INTO roles (nome) VALUES ('ADMIN'), ('VENDEDOR'), ('ESTOQUISTA');
-
