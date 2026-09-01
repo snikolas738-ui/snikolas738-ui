@@ -1,90 +1,66 @@
-## snikolas738-ui 
-# 👨🏻‍💻 Nikolas Pereira Santos
+<h1 align="center">Olá, eu sou o Nikolas 👋</h1>
 
-**Desenvolvedor Backend**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1F4E79&center=true&vCenter=true&width=500&lines=Programador+Full-Stack;Python+%7C+Java+%7C+JavaScript;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
+</p>
 
-Estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento backend e construção de APIs REST. Tenho experiência prática na criação de sistemas utilizando Python, JavaScript (Node.js) e Java, com integração a banco de dados e aplicação de boas práticas de arquitetura.
-
-Busco evoluir continuamente na construção de soluções organizadas, seguras e escaláveis.
-
----
-
-
-<p align="left">
-    <img 
-        alt="Backend Developer" 
-        title="Foco em Backend" 
-        src="https://custom-icon-badges.demolab.com/badge/Backend-Developer-236ad3?style=for-the-badge&logo=server&logoColor=white"
-    />
-    <img 
-        alt="Python" 
-        title="Python" 
-        src="https://custom-icon-badges.demolab.com/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
-    />
-    <img 
-        alt="Node.js" 
-        title="Node.js" 
-        src="https://custom-icon-badges.demolab.com/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"
-    />
-    <img 
-        alt="Java" 
-        title="Java" 
-        src="https://custom-icon-badges.demolab.com/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"
-    />
+<p align="center">
+  <a href="https://www.linkedin.com/in/nikolas-pereira-santos-32a04038b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:snikolas738@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 🚀 Tecnologias e Ferramentas
+### 🚀 Sobre mim
 
-<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="NodeJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-<img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+- 🎓 Análise e Desenvolvimento de Sistemas
+- 💻 Foco em desenvolvimento Backend
+- ☕ Java e Spring Boot
+- 🐍 Python
+- 🌐 Desenvolvimento de APIs REST
+- 🗄️ Bancos de dados relacionais SQL (SQLite / MySQL)
+- 🔧 Git & GitHub
 
-<br/>
-<br/>
+### 🛠️ Tecnologias
 
----
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+</p>
 
-## ⚙️ Stack Principal
+### 📊 Estatísticas do GitHub
 
-- Python (FastAPI)
-- JavaScript (Node.js / Express)
-- Java
-- SQL (SQLite / MySQL)
-- Git & GitHub
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=snikolas738-ui&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snikolas738-ui&layout=compact&hide_border=true" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snikolas738-ui&hide_border=true" />
+</p>
 
-## 🧠 Competências Técnicas
+### 📌 Projetos em destaque
 
-- Desenvolvimento de APIs REST
-- Estruturação backend em camadas
-- CRUD completo
-- Modelagem de banco de dados
-- Autenticação e criptografia de senha
-- Tratamento de erros e validações
-- Conceitos de HTTP e arquitetura cliente-servidor
-- Versionamento com Git
-
----
-
-## 📂 Projetos
-
-- API de Cadastro de Usuários (Node.js)
-- API REST com FastAPI
-- Sistema backend estruturado com organização profissional
-
----
-
-## 🎯 Objetivo
-
-Atuar como Desenvolvedor Backend Jr, aplicando lógica sólida, organização de código e boas práticas no desenvolvimento de sistemas.
+| Projeto | Descrição |
+|---|---|
+| [Sistema de Gestão de Vendas](https://github.com/snikolas738-ui/sistema-gestao-vendas) | Backend Java + Spring Boot, PostgreSQL, autenticação JWT |
+| Sistema de Help Desk / Gestão de Chamados | Em breve |
+| Sistema Financeiro Empresarial | Em breve |
 
 ---
 
-
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=snikolas738-ui&style=flat&color=1F4E79" alt="Visitor count" />
+</p>
