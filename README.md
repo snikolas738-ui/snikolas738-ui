@@ -111,16 +111,5 @@ de Software**, com foco em Backend.
 **Java • Spring Boot • Python • APIs REST • SQL • PostgreSQL**
 
 ---
+---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=snikolas738-ui&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false"
-    width="48%"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=snikolas738-ui&layout=compact&theme=tokyonight&hide_border=false"
-    width="48%"
-  />
-</p>
