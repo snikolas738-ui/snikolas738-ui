@@ -112,9 +112,15 @@ de Software**, com foco em Backend.
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=snikolas738-ui&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snikolas738-ui&layout=compact&hide_border=true&theme=default" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=snikolas738-ui&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false"
+    width="48%"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=snikolas738-ui&layout=compact&theme=tokyonight&hide_border=false"
+    width="48%"
+  />
 </p>
