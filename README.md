@@ -44,12 +44,12 @@
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=snikolas738-ui&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snikolas738-ui&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=snikolas738-ui&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snikolas738-ui&layout=compact&hide_border=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snikolas738-ui&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snikolas738-ui&hide_border=true&theme=tokyonight" />
 </p>
 
 ### 📌 Projetos em destaque
@@ -65,4 +65,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=snikolas738-ui&style=flat&color=1F4E79" alt="Visitor count" />
 </p>
-
